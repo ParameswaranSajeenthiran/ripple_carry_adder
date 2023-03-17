@@ -1,0 +1,4 @@
+Running: xsim.dir/TB_RCA_behav/xsimk.exe -simmode gui -wdb TB_RCA_behav.wdb -simrunnum 0 -socket 61395
+Design successfully loaded
+Design Loading Memory Usage: 7656 KB (Peak: 7656 KB)
+Design Loading CPU Usage: 46 ms

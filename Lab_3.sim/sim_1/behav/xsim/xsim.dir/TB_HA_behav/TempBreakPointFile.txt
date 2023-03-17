@@ -1,0 +1,7 @@
+Breakpoint File Version 1.0
+83,true,"C:/Users/psaje/Lab_3/Lab_3.srcs/sim_1/new/TB_HA.vhd"
+79,true,"C:/Users/psaje/Lab_3/Lab_3.srcs/sim_1/new/TB_HA.vhd"
+78,true,"C:/Users/psaje/Lab_3/Lab_3.srcs/sim_1/new/TB_HA.vhd"
+76,true,"C:/Users/psaje/Lab_3/Lab_3.srcs/sim_1/new/TB_HA.vhd"
+74,true,"C:/Users/psaje/Lab_3/Lab_3.srcs/sim_1/new/TB_HA.vhd"
+73,true,"C:/Users/psaje/Lab_3/Lab_3.srcs/sim_1/new/TB_HA.vhd"
